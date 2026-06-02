@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to your script
-SCRIPT_PATH="./Proxy-changer.sh"
+SCRIPT_PATH="./PROXY-CHANGER.sh"
 
 echo "Loop started. Triggering $SCRIPT_PATH every 10 minutes."
 
